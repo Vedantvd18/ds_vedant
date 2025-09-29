@@ -41,8 +41,4 @@ ds_vedant/
 - Statistical significance testing and pattern discovery
 - Business-ready insights and recommendations
 
----
-**Assignment Submission for Web3 Trading Team Data Science Position**  
-**Candidate:** Vedant  
-**Submission Date:** [TODAY'S DATE]  
-**Platform:** Google Colab + GitHub
+
